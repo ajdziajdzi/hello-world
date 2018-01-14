@@ -3,10 +3,6 @@ hello-world
 
 Chapter 1
 Hello, just testing here
-Hello, just testing here
-Hello, just testing here
-Hello, just testing here
-Hello, just testing here
 
 
 Chapter 2
@@ -19,3 +15,6 @@ And more random text
 Draft branch
 
 Adding more lines to draft branch
+
+Chapter 3
+Start of a new beginning
